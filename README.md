@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">Hey there, this is Prajwal  I am Software Developer. What do I do? Well I build Applications And Software. What do I use 🧐? Check out the thing below👇🏻</h3>
+<h1 align="center">Hi 👋, I'm Rayed Maroof Khan</h1>
+<h3 align="center">Hey there, this is Rayed Maroof Khan  I am Software Developer. What do I do? Well I build Applications And Software. What do I use 🧐? Check out the thing below👇🏻</h3>
 
 - 🌱 I’m currently learning *Azure*
 
